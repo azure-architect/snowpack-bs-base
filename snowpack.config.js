@@ -11,8 +11,7 @@ module.exports = {
       'compilerOptions':{
           style: 'compressed',
           loadPath: [
-              './scss/main.scss'
-              
+              './scss/main.scss',
           ]
       }
   }],
