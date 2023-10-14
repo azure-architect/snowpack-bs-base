@@ -1,0 +1,24 @@
+{
+  "name": "base_sp",
+  "version": "1.0.1",
+  "description": "Second Attempt at a build environment. This one with GIT so I can roll back things Fast. ",
+  "main": "./src/js/index.js",
+  "scripts": {
+    "test": "fuckit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azure-architect/snowpack-bs-base.git"
+  },
+  "keywords": [
+    "snowpack",
+    "bootstrap",
+    "font-awesome"
+  ],
+  "author": "azure-architect",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azure-architect/snowpack-bs-base/issues"
+  },
+  "homepage": "https://github.com/azure-architect/snowpack-bs-base#readme"
+}
